@@ -1,16 +1,16 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About
+subtitle: 즐겁게 살고싶습니다.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+자연어처리를 공부하고 있는 황윤기입니다.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
+### Education
 
-### My story
+- 가천대학교 컴퓨터공학과 휴학 중 (~ 23.09)
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### Etc.
+
+- 네이버 커넥트 부스트캠프 AI Tech (~ 23.08)
