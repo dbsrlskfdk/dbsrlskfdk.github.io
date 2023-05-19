@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [부스트캠프 AI Tech] KLUE Relation Extraction 대회 회고
+title: KLUE Relation Extraction 대회 회고
 subtitle: 부푼 꿈을 안고 시작한 6등의 회고
 # gh-repo: daattali/beautiful-jekyll
 # gh-badge: [star, fork, follow]
