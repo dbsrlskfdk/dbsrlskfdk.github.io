@@ -6,6 +6,11 @@ layout: page
 
 {% assign posts = paginator.posts | default: site.posts %}
 
+<div class="list-filters">
+    <a href="/" class="list-filter filter-selected">All Posts</a>
+    <a href="/tags" class="list-filter">Tags</a>
+</div>
+
 <!-- role="list" needed so that `list-style: none` in Safari doesn't remove the list semantics -->
 <ul class="posts-list list-unstyled" role="list">
   {% for post in posts %}
